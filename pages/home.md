@@ -1,20 +1,19 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Roojeez Blog
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi there!
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+My name is Rui Jie Wang.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+XR Product Designer passionate about designing for impact with immersive technologies.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+Currently Sr. UX Designer at [Lumeto ](https://lumeto.com/) based in Toronto, Canada.
 
-Or click the button below to deploy your own copy of this project to Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
