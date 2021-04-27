@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Hi there!
+# Hi there! My name is Rui Jie Wang
 
 My name is Rui Jie Wang.
 
