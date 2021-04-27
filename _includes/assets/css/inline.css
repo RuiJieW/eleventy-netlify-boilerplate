@@ -24,7 +24,6 @@ body {
 
 main {
 	max-width: 37.5em;
-	margin: 0px auto;
 }
 
 p,
@@ -51,6 +50,7 @@ header,
 main,
 footer {
 	padding: 1em;
+	margin: 0px auto;
 }
 
 main {
