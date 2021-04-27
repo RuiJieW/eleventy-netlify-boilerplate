@@ -19,7 +19,7 @@ Currently Sr. UX Designer at [Lumeto ](https://lumeto.com/) based in Toronto, 
 
 ### In the past I...
 
-\*[Was stealthily incubating learning tech at Dark Slope ](http://darkslope.com/)
+\* [Was stealthily incubating Involve XR at Dark Slope ](http://darkslope.com/)
 
 \* [Was Lead UX at PATIO Interactive 2017-2020](http://patiointeractive.com/)
 
